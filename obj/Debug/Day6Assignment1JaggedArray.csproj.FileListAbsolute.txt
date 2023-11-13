@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\bin\Debug\Day6Assignment1JaggedArray.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\bin\Debug\Day6Assignment1JaggedArray.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\bin\Debug\Day6Assignment1JaggedArray.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\obj\Debug\Day6Assignment1JaggedArray.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\obj\Debug\Day6Assignment1JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\obj\Debug\Day6Assignment1JaggedArray.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day6Assignment1JaggedArray\Day6Assignment1JaggedArray\obj\Debug\Day6Assignment1JaggedArray.pdb
